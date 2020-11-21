@@ -146,9 +146,6 @@ jobs:
           CONFIG_PACKAGE_luci-app-passwall_INCLUDE_simple-obfs=y
           CONFIG_UnblockNeteaseMusic_Go=y
           CONFIG_UnblockNeteaseMusic_NodeJS=y
-          CONFIG_PACKAGE_UnblockNeteaseMusic=y
-          CONFIG_PACKAGE_UnblockNeteaseMusicGo=y
-          CONFIG_UnblockNeteaseMusicGo_INCLUDE_GOPROXY=y
           EOF
           
           # LuCI主题:
