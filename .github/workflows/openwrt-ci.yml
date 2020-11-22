@@ -127,7 +127,6 @@ jobs:
           CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_V2ray=y
           CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Trojan=y
           CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_haproxy=y
-          CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_tcpping=y
           CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_tcping=y
           CONFIG_PACKAGE_luci-app-passwall_INCLUDE_V2ray=y
           CONFIG_PACKAGE_luci-app-passwall_INCLUDE_Trojan=y
