@@ -138,13 +138,10 @@ jobs:
           CONFIG_UnblockNeteaseMusic_NodeJS=y
           CONFIG_PACKAGE_luci-app-vsftpd=n
           CONFIG_PACKAGE_luci-app-vlmcsd=n
-          CONFIG_PACKAGE_https-dns-proxy=n
           CONFIG_PACKAGE_kmod-ipt-nat6=n
           CONFIG_PACKAGE_kmod-nf-nat6=n
           CONFIG_PACKAGE_kmod-sit=n
-          CONFIG_PACKAGE_libhttp-parser=n
           CONFIG_PACKAGE_odhcpd-ipv6only=n
-          CONFIG_PACKAGE_libopenssl1.1=n
           EOF
           
           # LuCI主题:
